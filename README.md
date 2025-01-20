@@ -1,5 +1,5 @@
 # Meu Portfólio  
-Bem-vindo ao meu portfólio! Aqui você encontra exemplos do meu trabalho como Technical Writer.  
+Boas vindas ao meu portfólio! Aqui você encontra exemplos do meu trabalho como Technical Writer.  
 
 ## Projetos  
 - [Projeto 1: Documentação de how-to guide](https://github.com/seu-username/projeto1)  
